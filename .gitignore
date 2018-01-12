@@ -1,0 +1,9 @@
+# Idea files
+.idea
+*.iml
+
+# Allure files
+.allure
+
+# Maven files
+target
